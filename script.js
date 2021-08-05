@@ -16,6 +16,6 @@ function changeBackGround(){
 
 function pressed() {
   var press = document.getElementById("press")
-  press.style.color="blue"
+  press.style.color="red"
 }
 
