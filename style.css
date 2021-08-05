@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: o;
+}
+body {
+  text-align:center;
+  background-color:#F8E4DF;
+}
+
+.binding {
+  width: 1160px;
+  margin: auto;
+}
+
+header {
+  height: 100px;
+	background-color: #C38D93;
+	width: 100%;
+}
+
+nav {
+  letter-spacing: 5px;
+  font-size:25px;
+  float:rigth;
+}
+nav a {
+  font-size:20px;
+  text-decoration:none;
+  line-height: 100px;
+   color:white;
+   font-family: Courier New;
+}
+
+.logo a {
+  text-decoration:none;
+  font-size:30px;
+  line-height: 100px;
+  color:white;
+  font-family: Courier New;
+}
+.logo {
+width:30%;
+  float: left;
+}
+
+nav a:hover{
+  background-color: #E27D60;
+}
+
+.bg1 {
+  background-image:url("https://wallpaperaccess.com/full/2180967.jpg");
+ width:100%;
+ display:block;
+ height:500px;
+top: 100px;
+background-position: center center;
+}
+
+.a {
+  display: center;
+  font-size: 100px;
+  position: relative;
+  top: 100px;
+  color:#C38D93;
+}
+
+
+p span {
+  display:block;
+  font-family: Courier New;
+  line-height: 30px;
+  position:relative; bottom:0px;
+  text-align:center;
+}
+
+.b {
+  color:black;
+}
+
+.container {
+  display: flex;
+  max-width: 1170px;
+  width:100%;
+}
+
+.column {
+border:#C38D93;
+border-radius:10px;
+}
+
+.lel {
+  color: lightcoral;
+  top:4%;
+       left: 80%;
+       width:100px;
+       height:40px;
+       position: absolute;
+       background: orange; 
+}
+
+
